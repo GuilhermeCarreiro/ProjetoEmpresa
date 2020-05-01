@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>C:\Users\gui-c\Desktop\Importação</_PublishTargetUrl>
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAS4HzrBJT/U2/VXVQ8GkZkgAAAAACAAAAAAAQZgAAAAEAACAAAAD6PID9k0O6aHcN7kRpNZGkTlJnyea7yyPRyqfc5d+kiwAAAAAOgAAAAAIAACAAAAAxjoSL9i5fAUM3w/chzHA1hHCA/B1cncHEKuWKZMX6tCAAAABKW5BzjbvotMdukhXYVasyoZkJTncoIOOpBOYo+mYW60AAAABTxwzuRNvL2v8yw/lDk0A1xrTPKGCXHv/yn3uMbj+eWrQJwz3WzJQVYkYEix2HHG/AMDwEb5L5BNniU57JMG4o</EncryptedPassword>
+  </PropertyGroup>
+</Project>
